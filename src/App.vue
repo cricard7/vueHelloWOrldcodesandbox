@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img width="25%" src="./assets/logo.png">
+    <img width="25%" src="https://i2.wp.com/wp.laravel-news.com/wp-content/uploads/2018/08/vue-cli-3.png?resize=2200%2C1125">
     <HelloWorld/>
   </div>
 </template>
